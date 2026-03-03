@@ -2,6 +2,8 @@ Projeto Universidade
 
 Este é um projeto front-end simples de um site institucional de uma universidade criado com HTML e CSS. O site apresenta uma estrutura básica de páginas, um menu de navegação e seções para cursos, eventos e login de alunos.
 
+![Preview do Projeto](projeto_universidade_foto.png)
+
 Descrição
 
 O objetivo deste projeto é construir uma interface web estática que possa servir como base para um portal universitário. A página principal (index.html) contém uma navegação com links para as principais seções de um site acadêmico e elementos visuais que representam cursos, eventos e um espaço de acesso para estudantes.
